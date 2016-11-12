@@ -2041,6 +2041,10 @@
 					margin: 0;
 					padding: 0;
 				}
+        
+                #content > > #map {
+                    height: 400px; width: 100%;
+                }
 
 		/* Sidebar */
 
